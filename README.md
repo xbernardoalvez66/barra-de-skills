@@ -1,5 +1,5 @@
 # Barra de skills
-Tecnologias utlizadas:HTML5,CSS3
+Tecnologias utilizadas:HTML5,CSS3
 
  -----------
  ## Links para proyectos                                          
